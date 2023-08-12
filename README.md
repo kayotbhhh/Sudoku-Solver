@@ -1,2 +1,2 @@
 # Sudoku-Solver
-This program will solve any sudoku game presented to it.
+This Python program employs a backtracking algorithm to proficiently solve Sudoku puzzles of varying complexities. The Sudoku Problem Solver can successfully solve even the most challenging Sudoku puzzles by systematically exploring possible number placements and efficiently backtracking when conflicts arise. This implementation combines logical deduction with recursive search techniques and overall achieves accurate and elegant solutions for anyone trying to solve a Sudoku problem.
