@@ -1,4 +1,3 @@
-// Gitpod dev setup
 image: gitpod/workspace-full-vnc
 ports:
   - port: 5900
